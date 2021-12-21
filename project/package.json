@@ -1,0 +1,22 @@
+{
+    "name": "supply-chain-example",
+    "version": "1.0.0",
+    "description": "A POC for green game (supply chain blockchain)",
+    "main": "index.js",
+    "scripts": {
+      "dev": "lite-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Paritosh Dhebar <paritosh.dhebar@lexicondigital.com.au>",
+    "license": "MIT",
+    "dependencies": {
+      "lodash": ">=4.17.13",
+      "solc": "^0.6.0",
+      "truffle-hdwallet-provider": "^1.0.17"
+    },
+    "devDependencies": {
+      "lite-server": "^2.5.3"
+    }
+  }
+  
